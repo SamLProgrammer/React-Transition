@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GifItemTest Should Ask for Title and URl 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Broly"
+      src="http://broly.com/broly.jpg"
+    />
+    <p>
+      Broly
+    </p>
+  </div>
+</div>
+`;
